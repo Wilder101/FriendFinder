@@ -1,4 +1,5 @@
 // FriendFinder by WBM, 1/18/19, friends.js file
+// Updated 6/6/19
 
 // friends in the "database"
 let friends = [
@@ -9,7 +10,7 @@ let friends = [
     },
     {
         name: "Jon Snow",
-        photo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Jon_Snow-Kit_Harington.jpg",
+        photo: "https://s2.r29static.com//bin/entry/451/340x408,85/2190084/kit-harington-is-receiving-treatment-2190084.webp",
         scores: ["1", "2", "3", "1", "5", "2", "2", "2", "5", "2"] 
     },
     {
@@ -19,7 +20,7 @@ let friends = [
     },
     {
         name: "Tilda Swinton",
-        photo: "https://junkee.com/wp-content/uploads/2016/10/955965-tilda-swinton.jpg",
+        photo: "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/11/9/1320844762780/Actress-Tilda-Swinton-007.jpg?width=620&quality=85&auto=format&fit=max&s=6b75c79e672f3cbbf7def8057a9d44b3",
         scores: ["4", "5", "3", "2", "3", "2", "1", "2", "5", "3"]
     },
     {
@@ -29,7 +30,7 @@ let friends = [
     },
     {
         name: "Ruby Rose",
-        photo: "http://entertainment.inquirer.net/files/2018/08/t0811word-Oli-7.jpg",
+        photo: "https://pixel.nymag.com/imgs/daily/vulture/2018/08/13/13-ruby-rose.w330.h330.jpg",
         scores: ["5", "2", "1", "5", "5", "3", "3", "2", "3", "1"]
     },
     {
